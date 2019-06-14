@@ -1,2 +1,1 @@
-# sunny
-programming
+python studying codes
